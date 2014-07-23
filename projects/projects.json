@@ -1,6 +1,19 @@
 {
   "featured": "YouTube on PS3",
   "projects": [
+{
+  "name": "UXM Presentation",
+  "thumb": "presentation/thumb.png",
+  "desc": "A super simple presentation application that will help you to create, update, delete, share presentation online. ",
+  "url": "http://uxm.herokuapp.com/",
+  "info": "http://hs105133.github.io/uxmdev/",
+  "src": "https://github.com/hs105133/uxmdev",
+  "submitter": "hs105133", // your github username
+  "submissionDate": "2014-07-23", // current date in ISO format
+  "tags": [
+    "AngularJS", "Bootstrap 3", "LESS", "NodeJS", "MongoDB", "Deployed", "Gulp"
+  ]
+},  
   {
     "name": "APWGL",
     "thumb": "apwgl/thumb.png",
